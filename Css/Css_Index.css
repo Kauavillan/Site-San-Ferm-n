@@ -16,7 +16,7 @@ main {
 header
 {
 width: 100%;
-background-color: rgba(0, 162, 255, 0.616);
+background-color: #25394D;
 display: flex;
 justify-content: space-around;
 align-items: center;
